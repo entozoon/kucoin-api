@@ -1,6 +1,6 @@
 {
   "name": "kucoin-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node.js client for the KuCoin API",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "author": "Satoshinaire",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "q": "^1.5.1",
     "restify-clients": "^1.5.2"
   }
