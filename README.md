@@ -24,10 +24,6 @@ The [KuCoin API documentation](http://docs.kucoinapidocs.apiary.io/) is not too 
 
 ## Getting started
 
-### Requirements
-
--   [Python](https://www.python.org/downloads/) installed and available as a path variable.
-
 ### Installation
 
     npm install --save kucoin-api
